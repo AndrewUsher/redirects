@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/cashapp",
+      "destination": "https://cash.app/$drewster17"
+    },
+    {
       "source": "/github",
       "destination": "https://github.com/AndrewUsher"
     },
