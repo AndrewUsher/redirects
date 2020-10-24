@@ -3,6 +3,10 @@
     {
       "source": "/github",
       "destination": "https://github.com/AndrewUsher"
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/AndrewUsher17"
     }
   ]
 }
