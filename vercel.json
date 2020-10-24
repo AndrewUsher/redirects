@@ -17,6 +17,10 @@
       "destination": "https://www.linkedin.com/in/andrew-usher-125332120/"
     },
     {
+      "source": "/portfolio",
+      "destination": "https://casual-cognitions.netlify.app"
+    },
+    {
       "source": "/twitter",
       "destination": "https://twitter.com/AndrewUsher17"
     }
