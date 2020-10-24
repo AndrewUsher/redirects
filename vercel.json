@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/blog",
+      "destination": "https://casual-cognitions.netlify.app/blog"
+    },
+    {
       "source": "/cashapp",
       "destination": "https://cash.app/$drewster17"
     },
